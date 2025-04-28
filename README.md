@@ -1,7 +1,7 @@
-# NAME: RAMKUMAR G
-# REG NO: 212223220084
+# NAME: Sajen Murali
+# REG NO: 212223220089
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
-# Date:09.09.2024
+# Date:24.04.2025
 # AIM
 To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
 # ALGORITHM
